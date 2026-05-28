@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggervelete",
+        "uuid": 18079360,
+        "checksum": "q4b76"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
